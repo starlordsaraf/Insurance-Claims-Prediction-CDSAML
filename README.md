@@ -16,6 +16,6 @@ The given data was clustered based on incurred amount to find some similarity be
 The predictive model was a neural network based classification model which was able to classify various cases into the claim bins according to the features given as input.
 # Outcome
 The model was able to predict the claim bin for a given claim with an accuracy of 51.28%
-# Scope For Improvemnet
+# Scope For Improvement
 The accuracy of the prediction needs to be improved.
 Instead of prediting range, the model should be extended to predict the exact claim amount value.
