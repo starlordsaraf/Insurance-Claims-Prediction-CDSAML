@@ -2,6 +2,8 @@
 This project was a part of my summer internship at Centre for Data Science and Applied Machine Learning at PES University.
 # Problem Statement
 The aim of the project was to come up with a machine learning based model for prediction of insurance claims given the historical data.
+# Dataset
+The dataset can't be made public as it belonged to a company but snippets from the dataset are present in the presentation.
 # Approach
 The problem was theoretically a regression problem by a classification approach was applied to it to predict the bracket of insurance claim the given insurance case will fall in. The model was made only for automobile insurance claims.
 # Data Cleaning
